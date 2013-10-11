@@ -12,7 +12,8 @@ public class Prueba {
 	
 	int numero [  ]= {1,2,3,4,5,6,7,8,9,10};
 	
-	public void imprimir(){
+	public void imprimir(){//prueba
+
 		for ( int i=0; i<10;i++){
 			System.out.println(numero[i]);
 			System.out.println("miau");
